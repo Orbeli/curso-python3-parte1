@@ -1,4 +1,4 @@
-# Desafio Paschoalotto
+# Curso Python 3 Parte 1
 Projeto criado de acordo com o curso de [Python3 parte 1](https://cursos.alura.com.br/course/python-3-introducao-a-nova-versao-da-linguagem) realizado na plataforma de estudos [Alura](https://www.alura.com.br/)
 
 ---
@@ -10,7 +10,7 @@ Projeto criado de acordo com o curso de [Python3 parte 1](https://cursos.alura.c
 Para startar o projeto:
 1) A partir da raiz do projeto executar o comando: 
 ```
-    python jogos.py
+    python jogos/jogos.py
 ```
 
 ---
